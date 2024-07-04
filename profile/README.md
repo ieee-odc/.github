@@ -39,18 +39,9 @@ Our current projects focus on developing comprehensive management platforms for 
 
 We use various platforms for communication and collaboration:
 
-- **Slack**: For daily communication and updates.
 - **GitHub Issues**: For tracking tasks and issues.
 - **GitHub Discussions**: For community discussions and idea sharing.
 
 ## Acknowledgments 🙏
 
 We extend our gratitude to the IEEE Tunisia Section and Orange Digital Center for their continuous support and guidance. This collaboration would not have been possible without their dedication and commitment to nurturing young talent.
-
-## License 📜
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more information.
-
-## Contact 📧
-
-For any queries or further information, please reach out to us at [ieee-odc-interns@example.com](mailto:ieee-odc-interns@example.com).
