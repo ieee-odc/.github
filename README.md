@@ -1,14 +1,7 @@
 # IEEE x ODC Interns
 
 ![GitHub Stars](https://img.shields.io/github/stars/ieee-odc?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/ieee-odc?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/ieee-odc)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ieee-odc)
-![Contributors](https://img.shields.io/github/contributors/ieee-odc)
-![License](https://img.shields.io/github/license/ieee-odc)
-![Last Commit](https://img.shields.io/github/last-commit/ieee-odc)
-![Top Language](https://img.shields.io/github/languages/top/ieee-odc)
-![Repo Size](https://img.shields.io/github/repo-size/ieee-odc)
+
 
 ## Welcome to the IEEE x ODC Interns GitHub Organization!
 
