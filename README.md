@@ -1,8 +1,5 @@
 # IEEE x ODC Interns
 
-![GitHub Stars](https://img.shields.io/github/stars/ieee-odc?style=social)
-
-
 ## Welcome to the IEEE x ODC Interns GitHub Organization!
 
 This repository is a product of a fruitful collaboration between the **IEEE Tunisia Section** and the **Orange Digital Center**. Our goal is to leverage the technical expertise and innovative spirit of our interns to develop cutting-edge software solutions.
